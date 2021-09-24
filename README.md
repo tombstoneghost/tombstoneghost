@@ -23,6 +23,8 @@
  > [#] Flask <br/>
  > [#] React <br/>
  > [#] NodeJS <br/>
+ > [#] SQL <br/>
+ > [#] MongoDB <br/>
  > [#] Android <br/>
 
 `ghost@tombstoneghost.git$` get_security_skills <br/>
