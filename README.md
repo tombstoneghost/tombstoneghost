@@ -45,3 +45,7 @@
 
 `root@tombstoneghost.git$` list_secret_projects <br/>
 > The projects will be released soon! Stay Tuned.
+
+
+`root@tombstoneghost.git$` liked <br/>
+> If you like the work, support [here](https://www.buymeacoffee.com/tombstoneghost)
