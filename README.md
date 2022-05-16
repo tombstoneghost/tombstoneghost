@@ -38,7 +38,7 @@
 > Twitter: https://twitter.com/simardeep99
 
 `ghost@tombstoneghost.git$` cat /etc/hosts <br/>
-> Portfolio: https://tombstoneghost.netlify.app/
+> Portfolio: https://www.simardeepsingh.tech/
 
 `ghost@tombstoneghost.git$` sudo su <br/>
 > Password: ************************ <br/>
