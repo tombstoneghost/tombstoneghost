@@ -40,7 +40,7 @@ A Cyber Security graduate, currently working as an Network Automation Engineer a
 - ⚡ Fun fact: Declare Variables Not War   
   
 
-- 🌐 Must visit at: [Simardeep Singh](https://www.simardeepsingh.tech/)  
+- 🌐 Must visit at: [Simardeep Singh](https://simardeepsingh.vercel.app/)  
 
 <br/>  
 
