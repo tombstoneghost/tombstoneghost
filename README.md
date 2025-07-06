@@ -1,4 +1,8 @@
-## Hey 👋, I'm Simardeep Singh!  
+<h1 align="center">Hi there, I'm Simardeep Singh 👋</h1>
+
+<p align="center">
+  <strong>Senior Network Automation & Security Engineer | Cybersecurity Researcher | Conference Speaker</strong>
+</p>
   
 
 <div align="center">
@@ -16,85 +20,74 @@
 </a>  
 </div>  
   
+---
+
+## 🛡️ About Me
+
+- 🔍 Specializing in **Network Security**, **Vulnerability Assessment**, and **Security Automation**
+- 🧠 Passionate about building tools for **Threat Detection**, **Configuration Compliance**, and **Incident Response**
+- 💡 Presented tools at **BlackHat MEA 2024**, **SecTor Arsenal 2024**, and **HackSummit Poland**
+- 🛠️ Creator of **AegisScan** and **Cyber Arsenal47** — community tools for automated security testing
+- 🌐 Currently working at **Hughes Systique Corporation** as **Senior Engineer - Network Automation and Security**
+
+---
+
+## 🚀 Projects & Tools
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| 🔒 **AegisScan** | OWASP ZAP-based web app scanner with automated intelligence | `BlackHat MEA 2024` |
+| 🧰 **Cyber Arsenal47** | Pentesting automation toolkit with CLI-based modular architecture | `SecTor Arsenal 2024` |
+| 🌐 **SwitchWatch** | Unified Threat Detection and Configuration Audit for Cisco (Upcoming) | `SecTor Arsenal 2025` |
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider | Date |
+|---------------|----------|------|
+| ✅ Cybersecurity Analyst (CySA+) | CompTIA | June, 2025 |
+| ✅ Practical Mobile Pentest Associate (PMPA) | TCM Security | July, 2024 |
+| ✅ Practical Network Penetration Tester (PNPT) | TCM Security | August, 2023 |
+| ✅ Certified Cloud Practioner (CCP) | AWS | May, 2023 |
+| ✅ Certified Ethical Hacker (CEH) | EC-Council | May, 2021 |
 
 
+---
 
-### $ whoami  
-A Cyber Security graduate, currently working as an Network Automation Engineer at Hughes Systique Corporation (HSC). With my Bachelor's of Technology in Computer Science Engineering with Specialization in Cyber Security and Forensics from University of Petroleum and Energy Studies (UPES), Dehradun. I aim to make a revolutionary change in the field of Computer Science and a habit of thinking out of the box, I keep trying new things and experimenting with stuff just to learn more about them and to prove my engineering traits.  
-  
+## 🎤 Speaking Engagements
 
-<br/>  
+- **BlackHat MEA 2024 (Riyadh)** – *AegisScan – Advanced Web Vulnerability Analysis Tool*
+- **BlackHat Sector (Toronto) 2024** – *Cyber Arsenal47 – An Automated Network Assessment Toolkit*
+- **HackSummit 2023 (Poland)** – *Entering the Cloud Kingdom via Keys from Web Apps*
 
+---
 
-## Rapidfire  
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on Active Directory  
-  
+```bash
+💻  Python | GoLang | Bash | JavaScript | Flask | React
+🔌  REST APIs | OWASP ZAP API | Cisco SDKs | Burp Extender API
+📡  Docker | Raspberry Pi | MQTT | RS485 | Node-RED | WSL
+🛠️  Git | GitHub Actions | Jenkins | SQL | MongoDB
+```
 
-- 🌱 I’m currently learning C-Sharp and DevOps  
-  
+---
 
-- ❓ Ask me about Web Development related technologies and Security  
-  
+## 📈 GitHub Stats
 
-- ⚡ Fun fact: Declare Variables Not War   
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tombstoneghost&show_icons=true&theme=react&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tombstoneghost&layout=compact&theme=react" height="170" />
+</p>
 
-- 🌐 Must visit at: [Simardeep Singh](https://simardeepsingh.vercel.app/)  
+---
 
-<br/>  
+## 📫 Contact
 
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/simardeepbit)
+- 🛠️ [Try My Tools](https://github.com/simardeepbit?tab=repositories)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>  
+---
 
-<br/>  
-
-
-## Github Stats  
-
-<div style="width: 50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tombstoneghost&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-
- </div>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+> 🕒 *Last Updated: July 6, 2025*
