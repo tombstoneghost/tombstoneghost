@@ -28,9 +28,8 @@
 - 🧠 Passionate about building tools for **Threat Detection**, **Configuration Compliance**, and **Incident Response**
 - 💡 Presented tools at **BlackHat MEA 2024**, **SecTor Arsenal 2024**, and **HackSummit Poland**
 - 🛠️ Creator of **AegisScan** and **Cyber Arsenal47** — community tools for automated security testing
-- 🌐 Currently working at **Hughes Systique Corporation** as **Senior Engineer - Network Automation and Security**
-
----
+- 🌐 Worked as **Senior Engineer - Network Automation and Security** at **Hughes Systique Corporation**
+- 🏫 Currently pursuing **MSc Cyber Security Engineer** at **University of Warwick**
 
 ## 🚀 Projects & Tools
 
@@ -46,6 +45,7 @@
 
 | Certification | Provider | Date |
 |---------------|----------|------|
+| ✅ Web Application Penetration Tester Extreme (eWPTX) | INE | January, 2026 |
 | ✅ Cybersecurity Analyst (CySA+) | CompTIA | June, 2025 |
 | ✅ Practical Mobile Pentest Associate (PMPA) | TCM Security | July, 2024 |
 | ✅ Practical Network Penetration Tester (PNPT) | TCM Security | August, 2023 |
@@ -57,6 +57,7 @@
 
 ## 🎤 Speaking Engagements
 
+- **BlackHat Sector (Toronto) 2025** – *SwitchWatch: Unified Threat Detection and Compliance Auditing for Cisco Networks*
 - **BlackHat MEA 2024 (Riyadh)** – *AegisScan – Advanced Web Vulnerability Analysis Tool*
 - **BlackHat Sector (Toronto) 2024** – *Cyber Arsenal47 – An Automated Network Assessment Toolkit*
 - **HackSummit 2023 (Poland)** – *Entering the Cloud Kingdom via Keys from Web Apps*
